@@ -1,0 +1,84 @@
+2024-09-24 23:49:20,852 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:20,983 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:20,991 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,093 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,096 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,161 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,164 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,236 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,239 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,334 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,340 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,395 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,397 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,454 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,456 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,509 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,511 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,583 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,585 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,635 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,637 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,687 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,690 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,743 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,745 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,810 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-24 23:49:21,812 - Parsing relationship: /_rels/.rels
+2024-09-24 23:49:21,887 - ****Started TC003_LoginDDT*****
+2024-09-24 23:49:23,169 - Giving Email Address....
+2024-09-24 23:49:23,392 - Giving Password....
+2024-09-24 23:49:24,165 - Clicked on Login
+2024-09-24 23:49:24,169 - Validating My Account page is Exist or Not
+2024-09-24 23:49:24,240 - test case is passed,PAGE EXIST
+2024-09-24 23:49:24,778 - ****Started TC003_LoginDDT*****
+2024-09-24 23:49:25,507 - Giving Email Address....
+2024-09-24 23:49:25,635 - Giving Password....
+2024-09-24 23:49:26,174 - Clicked on Login
+2024-09-24 23:49:26,178 - Validating My Account page is Exist or Not
+2024-09-24 23:49:26,309 - test case is passed,PAGE EXIST
+2024-09-24 23:49:27,136 - ****Started TC003_LoginDDT*****
+2024-09-24 23:49:28,135 - Giving Email Address....
+2024-09-24 23:49:28,333 - Giving Password....
+2024-09-24 23:49:28,881 - Clicked on Login
+2024-09-24 23:49:28,882 - Validating My Account page is Exist or Not
+2024-09-24 23:49:29,031 - test case is passed,PAGE EXIST
+2024-09-24 23:49:29,855 - ****Started TC003_LoginDDT*****
+2024-09-24 23:49:30,813 - Giving Email Address....
+2024-09-24 23:49:31,006 - Giving Password....
+2024-09-24 23:49:31,480 - Clicked on Login
+2024-09-24 23:49:31,481 - Validating My Account page is Exist or Not
+2024-09-24 23:49:41,644 - test case is passed,PAGE EXIST
+2024-09-24 23:49:41,804 - ****Started TC003_LoginDDT*****
+2024-09-24 23:49:42,342 - Giving Email Address....
+2024-09-24 23:49:42,483 - Giving Password....
+2024-09-24 23:49:43,150 - Clicked on Login
+2024-09-24 23:49:43,150 - Validating My Account page is Exist or Not
+2024-09-24 23:49:43,189 - test case is passed,PAGE EXIST
+2024-09-25 03:07:35,643 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\OpenCartV18\master.xml"
+2024-09-25 03:07:37,374 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\OpenCartV18\master.xml
+
+2024-09-25 03:07:48,604 - **** Starting TC001_AccountRegistration*******
+2024-09-25 03:07:48,973 - **Here We Clicking On MyAccount...**
+2024-09-25 03:07:49,626 - **Here We Clicking on Register Link...**
+2024-09-25 03:07:49,667 - We Providing the CustomerDetails.... 
+2024-09-25 03:07:52,353 - Validationg Expected Message....
+2024-09-25 03:07:52,360 - Test is passed
+2024-09-25 03:07:52,360 - **** Finsihed TC001_AccountRegistration Test*******
+2024-09-25 03:07:56,441 - ****TC002_LoginTest Started...****
+2024-09-25 03:07:57,389 - Giving Email Address....
+2024-09-25 03:07:57,589 - Giving Password....
+2024-09-25 03:07:58,211 - Clicked on Login
+2024-09-25 03:07:58,230 - Validating My Account page is Exist or Not
+2024-09-25 03:07:58,294 - test case is passed,PAGE EXIST
+2024-09-25 03:07:58,295 - ****TC002_LoginTest is Finished...****
+2024-09-25 03:12:29,987 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\OpenCartV18\master.xml"
+2024-09-25 03:12:31,039 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\OpenCartV18\master.xml
+
+2024-09-25 03:16:12,962 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\OpenCartV18\master.xml"
+2024-09-25 03:16:13,938 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\OpenCartV18\master.xml
+
+2024-09-25 03:19:25,581 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\OpenCartV18\master.xml"

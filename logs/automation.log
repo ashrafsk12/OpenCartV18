@@ -1,0 +1,14 @@
+2024-09-27 02:55:49,422 - **** Starting TC001_AccountRegistration*******
+2024-09-27 02:55:50,672 - **Here We Clicking On MyAccount...**
+2024-09-27 02:55:51,353 - **Here We Clicking on Register Link...**
+2024-09-27 02:55:51,362 - We Providing the CustomerDetails.... 
+2024-09-27 02:55:53,865 - Validationg Expected Message....
+2024-09-27 02:55:53,870 - Test is passed
+2024-09-27 02:55:53,871 - **** Finsihed TC001_AccountRegistration Test*******
+2024-09-27 02:55:58,113 - ****TC002_LoginTest Started...****
+2024-09-27 02:56:00,132 - Giving Email Address....
+2024-09-27 02:56:00,363 - Giving Password....
+2024-09-27 02:56:01,160 - Clicked on Login
+2024-09-27 02:56:01,165 - Validating My Account page is Exist or Not
+2024-09-27 02:56:01,283 - test case is passed,PAGE EXIST
+2024-09-27 02:56:01,283 - ****TC002_LoginTest is Finished...****
